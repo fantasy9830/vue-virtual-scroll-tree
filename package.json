@@ -1,6 +1,6 @@
 {
   "name": "vue-virtual-scroll-tree",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Vue Virtual Scroll Tree",
   "author": "Ricky <fantasy9830@gmail.com>",
   "private": false,
@@ -16,6 +16,20 @@
   "files": [
     "dist/*"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fantasy9830/vue-virtual-scroll-tree.git"
+  },
+  "homepage": "https://github.com/fantasy9830/vue-virtual-scroll-tree#readme",
+  "keywords": [
+    "vue",
+    "vue3",
+    "virtual-scroll",
+    "tree"
+  ],
+  "bugs": {
+    "url": "https://github.com/fantasy9830/vue-virtual-scroll-tree/issues"
+  },
   "dependencies": {
     "core-js": "^3.6.5",
     "uuid": "^8.3.2",
