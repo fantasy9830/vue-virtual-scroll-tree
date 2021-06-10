@@ -1,9 +1,11 @@
 # Vue Virtual Scroll Tree
 
+```Vue 3 + Virtual Scroll + Tree```
+
 ## Install
 
 ```shell
-npm install vue-virtual-scroll-tree -S
+npm install --save vue-virtual-scroll-tree
 ```
 
 ## Quick Start
